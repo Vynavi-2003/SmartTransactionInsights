@@ -15,7 +15,7 @@ Architecture Diagrams
 
 High-Level Overview
 
-![High-Level Architecture](images/high_level_architecture.png)
+![High-Level Architecture](high_level_architecture.png)
 
 
 Tech Stack
