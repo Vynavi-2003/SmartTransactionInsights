@@ -17,10 +17,6 @@ High-Level Overview
 
 ![High-Level Architecture](images/high_level_architecture.png)
 
-Low-Level Design
-
-![Low-Level Architecture](images/low_level_architecture.png)
-
 
 Tech Stack
 
